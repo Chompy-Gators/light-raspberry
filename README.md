@@ -1,6 +1,4 @@
 # light-raspberry
-**9/16**   
-**Goals for meeting**: Identify milestones and decide on project
 
 **Purpose of project**
   To help a user be more environmentally conscious by text reminding them that they have left the light on at their home
@@ -21,7 +19,7 @@ What do we each want from this?
 
 **Agile Plan**
 - Every 2 weeks, choose an aspect to work on
-- Meetings once a week, Monday 12-1:30  
+- Meetings once a week, Monday 11:30-1:30  
 
 **Sprint 1 = Gather materials and research**
 - Order parts
